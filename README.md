@@ -31,3 +31,7 @@ Eine Ansammlung von Minecraft Musik und Mods
 --Theme--
 - Knopf unter "Meine Sammlung"
   - Aktiviert / Deaktiviert den hohen Kontrast aller Farben
+
+
+# Disclaimer
+Diese Website wurde mit Unterstützung einer KI entwickelt.
